@@ -1,0 +1,1 @@
+download this pre trained model from : http://localhost:8888/files/trained%20model.ipynb?_xsrf=2%7Cad6e770e%7C063e08e2c3ee44a8f46871c4c45d9932%7C1721969820 
